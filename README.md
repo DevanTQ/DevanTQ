@@ -1,4 +1,4 @@
-<img src="gifvideo.gif" width="400" alt="Demo Animation">
+<img src="gifvideo.gif" width="600" alt="Demo Animation">
 
 
 # 👾 About Me:
