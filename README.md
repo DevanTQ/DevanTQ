@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=%3C%2Fa+Hello+World+%F0%9F%91%8B;%3E+I'm+Devandra+El+Syadam;%7CVisual+Communication+Design+Student;%3E+Blending+Creativity+%E2%9C%A8;%3E+with+Technology+%F0%9F%92%BB;%3E+Future+Cybersecurity;%3E+%26+AI+Engineer+%F0%9F%94%90%F0%9F%A4%96)](https://git.io/typing-svg)
+
 <img src="gifvideo.gif" width="600" alt="Demo Animation">
 
 
