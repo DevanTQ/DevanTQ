@@ -1,5 +1,5 @@
 # 👾 About Me:
-<br><br>🚀 Tech Explorer | 🎨 Visual Designer | 💻 Code Enthusiast  <br><br>Hi, I'm **Devandra El Syadam** — blending creativity & technology.  <br>I dive into **C++, Python, Web Design**, and explore **AI, Cybersecurity, Blockchain, Robotics**.  <br><br>⚡ Always learning. 🌍 Always creating. 🔮 Always evolving.  
+🚀 Tech Explorer | 🎨 Visual Designer | 💻 Code Enthusiast  <br><br>Hi, I'm **Devandra El Syadam** — blending creativity & technology.  <br>I dive into **C++, Python, Web Design**, and explore **AI, Cybersecurity, Blockchain, Robotics**.  <br><br>⚡ Always learning. 🌍 Always creating. 🔮 Always evolving.  
 
 
 ## 🌐 Socials:
