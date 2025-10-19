@@ -30,3 +30,5 @@
 [![](https://visitcount.itsvg.in/api?id=DevanTQ&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![@DevanTQ GitHub stats](https://github-contributions.vercel.app/api/v1/DevanTQ?theme=dark)
