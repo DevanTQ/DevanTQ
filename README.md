@@ -4,7 +4,6 @@
 <div align="center">
   <img height="200" src="cool.gif"  />
 </div>
-<h1 align="center">Hey I'am Devandra El Syadam</h1>
 
 ###
 
